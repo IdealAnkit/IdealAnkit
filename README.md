@@ -1,75 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">Aspiring AI Software Engineer | Machine Learning • Deep Learning • Generative AI</h3>
+# 💫 Hello World, I'm Ankit Kumar 👋  
 
-<p align="center">
-  <a href="https://github.com/IdealAnkit"><img src="https://komarev.com/ghpvc/?username=IdealAnkit&label=Profile%20Views&color=0e75b6&style=flat" alt="IdealAnkit" /></a>
-</p>
+🚀 **Aspiring AI Software Engineer | Full-Stack Web & App Developer | Generative AI Enthusiast**
 
----
-
-## 💫 About Me
-
-👨‍💻 **Aspiring AI Software Engineer** with a strong passion for building **intelligent, scalable, and real-world AI systems**.  
-I specialize in **Machine Learning, Deep Learning, and Generative AI**, and love transforming complex academic concepts into **practical applications**.
-
-🎯 I combine **solid CS fundamentals** with **AI + Full-Stack Development** to create impactful, end-to-end solutions.
-
-🚀 Curious by nature, disciplined by practice, and driven by innovation.
+I build **intelligent systems**, **interactive web & mobile applications**, and **scalable backend solutions** by combining strong **Computer Science fundamentals**, modern **AI/ML techniques**, and **clean software engineering practices**.
 
 ---
 
-## 🔭 What I’m Currently Working On
+## 🧠 About Me  
 
-- 🤖 **AI/ML projects** involving classification, regression & real-time computer vision  
-- 🧠 Exploring **Generative AI, LLMs & prompt-engineering workflows**  
-- 🌐 Building **end-to-end AI applications** integrated with Web & Mobile platforms  
-- ⚙️ Improving model performance, inference speed & real-world usability
+👨‍💻 **Aspiring AI Software Engineer** with hands-on experience in **Machine Learning, Deep Learning, Computer Vision, and Generative AI**.  
+🌐 **Web & App Developer** skilled in crafting **highly interactive, responsive, and user-centric applications** using modern frontend and backend technologies.  
+🎯 Passionate about transforming ideas into **real-world, production-ready solutions**.
 
----
-
-## 👯 Open to Collaboration On
-
-- 📊 **Machine Learning & Deep Learning projects** (CNNs, classical ML, applied AI)  
-- ✨ **Generative AI tools**, LLM-based apps & intelligent assistants  
-- 🔓 Open-source projects at the intersection of **AI × Web × Mobile**
-
-> If it involves data, models, or intelligence — I’m in.
+💡 I enjoy working at the intersection of **AI + Web + Mobile**, where intelligent models meet seamless user experiences.
 
 ---
 
-## 🤝 Looking for Help With
+## 🔭 Currently Working On  
 
-- 🏗️ Designing **production-ready AI architectures**  
-- ☁️ **Deploying & scaling ML models** efficiently  
-- 🔁 Best practices in **MLOps & AI system optimization**
-
----
-
-## 🌱 Currently Learning
-
-- 📚 Advanced **Machine Learning & Deep Learning** concepts  
-- 🧩 **Generative AI, LLM internals & prompt engineering**  
-- 🚀 Model optimization, evaluation & real-world deployment strategies
+- 🤖 **AI / ML Projects** (classification, regression, CNNs, real-time computer vision)
+- 🧠 **Generative AI & LLM-based applications**
+- 🌐 **Full-stack web applications** with modern UI/UX
+- 📱 **Cross-platform mobile apps** using React Native
+- ⚙️ Integrating **AI models into web & mobile products**
 
 ---
 
-## 💬 Ask Me About
+## 👯 Looking to Collaborate On  
+
+- 🤝 **Machine Learning & Deep Learning projects**
+- 🧩 **Generative AI tools, LLM workflows & prompt engineering**
+- 🌍 **Open-source projects** in AI, Web, or App Development
+- 🚀 End-to-end products combining **Frontend + Backend + AI**
+
+---
+
+## 🤝 Looking for Help With  
+
+- 🏗️ Designing **production-ready AI systems**
+- ☁️ **Deploying ML models** efficiently (performance & scalability)
+- 🔄 **MLOps pipelines**, model monitoring & optimization
+- 📦 Best practices for **AI integration in real applications**
+
+---
+
+## 🌱 Currently Learning  
+
+- 📈 **Advanced Machine Learning & Deep Learning**
+- 🧠 **Generative AI, LLMs & Prompt Engineering**
+- ⚡ AI model optimization & deployment
+- ☁️ Cloud-native and scalable architectures
+
+---
+
+## 💬 Ask Me About  
 
 - 🤖 Machine Learning, Deep Learning & Generative AI  
+- 🧠 CNNs, RandomForest & Computer Vision  
 - 🐍 Python for AI/ML (NumPy, Pandas, Scikit-learn, Matplotlib)  
-- 👁️ CNNs, RandomForest & real-time computer vision  
-- 🌐 Full-stack development integrated with AI systems
+- 🌐 Frontend Development (React, UI/UX, Performance)  
+- ⚙️ Backend Development (Node.js, PHP, APIs, Databases)  
+- 📱 Mobile App Development (React Native)
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact  
 
-I genuinely enjoy turning **textbook AI concepts into real-time systems** —  
-from predicting outcomes 📈 to deploying models that *actually run in the wild* 🚀
+I love turning **theory into reality**—whether it’s training an ML model, designing a smooth UI, or deploying a full-stack application that users actually enjoy 🚀  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ideal_ankit_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/idealankit) 
@@ -78,33 +79,45 @@ from predicting outcomes 📈 to deploying models that *actually run in the wild
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
-> *Languages • Frameworks • AI • Cloud • Tools*
+### 🧠 AI / ML / Data Science  
+Python • NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Keras • OpenCV • Matplotlib • SciPy  
 
-<!-- (Your existing badges remain unchanged below this line) -->
-<!-- KEEP YOUR TECH STACK BADGES AS YOU ALREADY HAVE THEM -->
+### 🌐 Frontend Development  
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux • React Router • React Hook Form  
+
+### ⚙️ Backend & Databases  
+Node.js • Express.js • PHP • Flask • MySQL • MongoDB • SQL Server • Apache  
+
+### 📱 Mobile & Cloud  
+React Native • AWS • Azure • Google Cloud • Vercel  
+
+### 🛠️ Tools & Platforms  
+Git • GitHub • GitLab • Linux • Windows • Arduino • Cisco • VS Code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=IdealAnkit&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=IdealAnkit&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IdealAnkit&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IdealAnkit&theme=dark&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=IdealAnkit&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IdealAnkit&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repositories  
+
 ![](https://github-contributor-stats.vercel.app/api?username=IdealAnkit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=IdealAnkit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly crafted by IdealAnkit using GPRM -->
+<!-- Proudly crafted by Ankit Kumar | Powered by GPRM -->
